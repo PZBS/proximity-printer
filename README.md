@@ -10,8 +10,8 @@ Aktualna baza kart zawodników (do umieszczenia w katalogu programu) znajduje si
 
 Pobierz program Proximity Printer (wybór wersji 32/64-bitowej zależy od wersji Javy zainstalowanej na Twoim komputerze):
 
-* Java 32-bitowa
-* Java 64-bitowa
+* [Java 32-bitowa](https://github.com/PZBS/proximity-printer/releases/download/1.3.6/proximity-printer-1.3.6-x86.zip)
+* [Java 64-bitowa](https://github.com/PZBS/proximity-printer/releases/download/1.3.6/proximity-printer-1.3.6-x64.zip)
 
 © 2012 Łukasz Kalbarczyk, Paweł Perz, Michał Zimniewicz
 
